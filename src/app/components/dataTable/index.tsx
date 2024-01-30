@@ -110,7 +110,7 @@ const DataTable = () => {
       setTimestamps(timestampsAtDayStart)
       const reads = timestampsAtDayStart.map((timestamp) => {
         return {
-          address: BasinStorage.address,
+          address: process.env.NEXT_PUBLIC_BASIN_CONTRACT_ADDRESS,
           abi: BasinStorage.abi,
           functionName: 'cidsAtTimestamp',
           args: [selectedOption, [timestamp]],
