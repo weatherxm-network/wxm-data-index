@@ -1,5 +1,5 @@
 # WeatherXM Decentralized Data Index
-WeatherXM Decentralized Data Index is a dapp that allows users to fetch WeatherXM's data and Merkle trees from Basin's smart contracts. This application is designed to be fully decentralized, enabling users to access weather data and daily reward distribution Merkle trees directly from Filecoin. You can see it in action on https://index.weatherxm.com
+WeatherXM Decentralized Data Index is a dapp that allows users to fetch WeatherXM's data and Merkle trees from Basin's smart contracts. This application is designed to be fully decentralized, enabling users to access weather data and daily reward distribution Merkle trees directly from Filecoin. You can see it in action on https://index.weatherxm.network
 
 ## Features
 - Fetch weather data from Basin's smart contracts.
